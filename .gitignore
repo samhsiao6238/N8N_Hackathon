@@ -1,0 +1,8 @@
+**/envDash
+**/.DS_Store
+**/node_modules
+**/*.ttf
+**/*.mp4
+**/.env
+**/test.ipynb
+**/secrets.toml

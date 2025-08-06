@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "postgresql": {
+        "command": "npx",
+        "args": [
+            "-y",
+            "@modelcontextprotocol/server-postgres",
+            "postgresql://user6238:pw6238@192.168.1.123:5432/db6238"
+        ],
+        "type": "stdio"
+        }
+    },
+    "inputs": []
+}
